@@ -1,0 +1,29 @@
+.rizz{
+    background-color: aquamarine;
+    opacity: 0.4;
+    text-align: center;
+    border: 4px solid black;
+    bo
+    padding: 10px;
+}
+body {
+    background-image: url(../assets/img/Picture1.jpg);
+    background-position: bottom right;
+}
+
+.xmas{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 50%;
+}
+.texts{
+    text-align:center;
+    font-size:x-large;
+    color: black;
+    display:block;
+
+}
